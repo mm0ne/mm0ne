@@ -1,7 +1,7 @@
 ## NIHAO WO JIAO MMONE
 
 [![mm0ne's GitHub stats](https://github-readme-stats-mm0ne.vercel.app/api?username=mm0ne)](https://github.com/mm0ne/github-readme-stats)
-![Top Langs](https://github-readme-stats-mm0ne.vercel.app/api/top-langs/?username=mm0ne&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut)
+![Top Langs](https://github-readme-stats-mm0ne.vercel.app/api/top-langs/?username=mm0ne&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)
 
 
 
