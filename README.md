@@ -1,6 +1,6 @@
 ## NIHAO WO JIAO MMONE
 
-![Top Langs](https://github-readme-stats-mm0ne.vercel.app/api/top-langs/?username=mm0ne&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats-mm0ne.vercel.app/api/top-langs/?username=mm0ne&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 
 
