@@ -1,6 +1,8 @@
 ## NIHAO WO JIAO MMONE
 
-![Top Langs](https://github-readme-stats-mm0ne.vercel.app/api/top-langs/?username=mm0ne&size_weight=0.5&count_weight=0.5&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats-mm0ne.vercel.app/api?username=mm0ne&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-mm0ne.vercel.app/api/top-langs/?username=mm0ne&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut)
+
 
 
 
